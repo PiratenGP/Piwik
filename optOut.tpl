@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<link rel="stylesheet" type="text/css" media="all" href="https://piratenpartei-gp.de/wp-content/themes/Piratenkleider/style.css">
+		<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/Piratenkleider/style.css">
 	</head>
 	<body>
 		{if !$trackVisits}{'CoreAdminHome_OptOutComplete'|translate}
