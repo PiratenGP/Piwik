@@ -5,7 +5,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/Piratenkleider/style.css">
 	</head>
-	<body>
+	<body style="background: white;">
 		{if !$trackVisits}{'CoreAdminHome_OptOutComplete'|translate}
 		<br/>
 		{'CoreAdminHome_OptOutCompleteBis'|translate}
